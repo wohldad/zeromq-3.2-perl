@@ -2,6 +2,8 @@
 
 This is a collection of ZeroMQ scripts to show possible use cases.
 
+Images and some content taken from: http://zguide.zeromq.org
+
 ## Install
 
 ### Download zeromq
